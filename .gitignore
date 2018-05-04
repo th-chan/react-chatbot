@@ -1,0 +1,13 @@
+.DS_STORE
+*.log
+*.iml
+*.zip
+deploylog.txt
+
+node_modules
+
+
+.idea/
+yarn.lock
+
+dist
